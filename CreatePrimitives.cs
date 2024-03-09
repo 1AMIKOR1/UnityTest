@@ -17,7 +17,7 @@ public class CreatePrimitives : MonoBehaviour
             {0, 3, 0}
 
         };
-        // цикл создающий в начале игры фигуру, напоминающую Стива из Minecraft!
+        //// С†РёРєР» СЃРѕР·РґР°СЋС‰РёР№ РІ РЅР°С‡Р°Р»Рµ РёРіСЂС‹ С„РёРіСѓСЂСѓ, РЅР°РїРѕРјРёРЅР°СЋС‰СѓСЋ РЎС‚РёРІР° РёР· Minecraft!
         for (int i = 0; i < arr.GetLength(0); i++)
         {
             float x = arr[i, 0];
